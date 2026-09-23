@@ -36,6 +36,30 @@ public class EspecialidadController {
 	                "Análisis clínicos con resultados confiables y oportunos.",
 	                "Caninos y felinos"
 	        ));
+	        especialidades.add(new Especialidad(
+	                4,
+	                "Dermatología Veterinaria",
+	                "Tratamiento especializado de alergias, infecciones de piel y oídos.",
+	                "Caninos y felinos"
+	        ));
+	        especialidades.add(new Especialidad(
+	                5,
+	                "Animales Exóticos",
+	                "Atención médica integral, nutrición y prevención para mascotas no convencionales.",
+	                "Aves, reptiles y pequeños mamíferos"
+	        ));
+	        especialidades.add(new Especialidad(
+	                6,
+	                "Odontología Veterinaria",
+	                "Profilaxis dental ultrasónica, extracciones y prevención de enfermedades bucales.",
+	                "Caninos y felinos"
+	        ));
+	        especialidades.add(new Especialidad(
+	                7,
+	                "Traumatología y Ortopedia",
+	                "Evaluación y corrección de fracturas, luxaciones y problemas articulares.",
+	                "Caninos y felinos"
+	        ));
 	    }
 
 	   
